@@ -1,5 +1,5 @@
-# Solo 
+# Robert Seymour
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+Cognitive Neuroscience PhD Student researching brain connectivity in autism
 
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+

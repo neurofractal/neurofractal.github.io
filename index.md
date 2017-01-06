@@ -26,11 +26,15 @@ I am also an advocate of open science & I aim to share all data and code wheneve
 * Development of educational interventions for secondary school pupils with autistic spectrum conditions
 
 ## Social Media
-
+  
+  You can find me on twitter [**@neurofractal](https://twitter.com/neurofractal)
+  <dl>
+  <a href="https://twitter.com/neurofractal" class="twitter-follow-button" data-show-count="false">Follow @neurofractal</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </dl>
+  
+  
 <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
-  
-  <a href="https://twitter.com/neurofractal" class="twitter-follow-button" data-show-count="false">Follow @neurofractal</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Software 
 

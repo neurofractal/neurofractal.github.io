@@ -1,6 +1,3 @@
----
-layout: default
----
 
 [Robert Seymour](http://chibicode.github.io/solo) 
 

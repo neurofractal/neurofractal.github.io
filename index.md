@@ -12,6 +12,7 @@ I am also an advocate of open science & I aim to share all data and code wheneve
 ## Active Projects
 
 * **PhD Project: MEG studies of atypical cortical activity in autism** 
+I am using MEG to study atypical patterns of oscillations and connectivity in Autism Spectrum Disorder. To do this I will be studying primary sensory processing, perspective taking behaviours and joint attention skills in a developmental sample of ASD and neurotypical controls. 
 
 * MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories. We used MEG, task-based and resting-state fMRI to characterise shifts between brain networks during the detection of semantic category changes
 

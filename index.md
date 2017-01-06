@@ -27,7 +27,7 @@ I am also an advocate of open science & I aim to share all data and code wheneve
 
 ## Social Media
   
-  You can find me on twitter [**@neurofractal](https://twitter.com/neurofractal)
+  *  You can find me on twitter **[@neurofractal](https://twitter.com/neurofractal)**
   <dl>
   <a href="https://twitter.com/neurofractal" class="twitter-follow-button" data-show-count="false">Follow @neurofractal</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </dl>

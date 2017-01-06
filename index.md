@@ -13,11 +13,15 @@ I am also an advocate of open science & I aim to share all data and code wheneve
 
 * **PhD Project: MEG studies of atypical cortical activity in autism** <br />
 
+
   I am using MEG to study atypical patterns of oscillations and connectivity in Autism Spectrum Disorder. To do this I will be studying primary sensory processing, perspective taking behaviours and joint attention skills in a developmental sample of ASD and neurotypical controls. 
 
-* MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories. We used MEG, task-based and resting-state fMRI to characterise shifts between brain networks during the detection of semantic category changes
+* MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.<br />
 
-* Application of cross frequency coupling metrics to task-based MEG data
+
+  We used MEG, task-based and resting-state fMRI to characterise shifts between brain networks during the detection of semantic category changes
+
+* Application of reliable cross frequency coupling metrics to task-based MEG data
 
 * Development of educational interventions for secondary school pupils with autistic spectrum conditions
 
@@ -25,6 +29,8 @@ I am also an advocate of open science & I aim to share all data and code wheneve
 
 <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+  
+  <a href="https://twitter.com/neurofractal" class="twitter-follow-button" data-show-count="false">Follow @neurofractal</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Software 
 

@@ -1,7 +1,7 @@
 
-Hello, I am a cotutelle PhD student at [Aston University] (http://www.aston.ac.uk/lhs/research/centres-facilities/brain-centre/) and Macquarie University, researching brain connectivity in autism using magnetoencephalography. I am especially interested in autism, developmental neuroscience and the dynamics of whole brain cortical activity, with a focus on the application of novel analysis methods to to clinical datasets.
+Hello, I am a cotutelle PhD student at [Aston University](http://www.aston.ac.uk/lhs/research/centres-facilities/brain-centre/) and [Macquarie University](https://www.mq.edu.au/), researching brain connectivity in autism using magnetoencephalography. I am especially interested in autism, developmental neuroscience and the dynamics of whole brain cortical activity, with a focus on the application of novel analysis methods to to clinical datasets.
 
-My CV can be downloaded here [CV](https://docs.google.com/document/d/1NxBkX8fHCGhypvmDhVpfYXQ6GWnsuztq19GSJQR7weo/edit?usp=sharing)
+### My CV can be downloaded here [link](https://docs.google.com/document/d/1NxBkX8fHCGhypvmDhVpfYXQ6GWnsuztq19GSJQR7weo/edit?usp=sharing)
 
 ## Active Projects
 

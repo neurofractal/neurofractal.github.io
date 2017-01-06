@@ -1,19 +1,22 @@
 
-[Robert Seymour](http://chibicode.github.io/solo) 
+Hello, I am a cotutelle PhD student at [Aston University] (http://www.aston.ac.uk/lhs/research/centres-facilities/brain-centre/) and Macquarie University, researching brain connectivity in autism using magnetoencephalography. I am especially interested in autism, developmental neuroscience and the dynamics of whole brain cortical activity, with a focus on the application of novel analysis methods to to clinical datasets.
+
+My CV can be downloaded here [CV](https://docs.google.com/document/d/1NxBkX8fHCGhypvmDhVpfYXQ6GWnsuztq19GSJQR7weo/edit?usp=sharing)
+
+## Active Projects
+
+* MPhil/PhD Project: MEG studies of atypical cortical activity in autism. 
+
+* MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories. We used MEG, task-based and resting-state fMRI to characterise shifts between brain networks during the detection of semantic category changes
+
+* Application of cross frequency coupling metrics to task-based MEG data
+
+* Development of educational interventions for secondary school pupils with autistic spectrum conditions
+
+
 
 <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
-
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
-
-## Solo is useful if...
-
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
-
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
 
 ## Usage
 

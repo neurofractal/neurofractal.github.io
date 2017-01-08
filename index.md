@@ -7,7 +7,7 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
 
 ![alt tag](http://i.imgur.com/P9dF0Vp.png)
 
-#### My CV can be viewed [here](https://docs.google.com/document/d/1NxBkX8fHCGhypvmDhVpfYXQ6GWnsuztq19GSJQR7weo/edit?usp=sharing)
+#### My CV can be downloaded [here](https://docs.google.com/document/d/1NxBkX8fHCGhypvmDhVpfYXQ6GWnsuztq19GSJQR7weo/edit?usp=sharing)
 
 #### My publications can be viewed [here](https://scholar.google.co.uk/citations?user=IAAhK00AAAAJ&hl=en) 
 

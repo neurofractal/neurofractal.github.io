@@ -7,7 +7,7 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
 
 ![alt tag](http://i.imgur.com/P9dF0Vp.png)
 
-#### My CV can be downloaded [here](https://docs.google.com/document/d/1NxBkX8fHCGhypvmDhVpfYXQ6GWnsuztq19GSJQR7weo/edit?usp=sharing)
+#### My CV can be viewed [here](https://docs.google.com/document/d/1NxBkX8fHCGhypvmDhVpfYXQ6GWnsuztq19GSJQR7weo/edit?usp=sharing)
 
 #### My publications can be viewed [here](https://scholar.google.co.uk/citations?user=IAAhK00AAAAJ&hl=en) 
 
@@ -21,13 +21,13 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
   
   * Using an interactive eye-tracking and MEG to investigate brain oscillations and atypical joint attention in autism. (To be conducted at Macquarie Universty April 2017-)
 
-** MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.<br />
+* MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.<br />
 
   * We used MEG, task-based and resting-state fMRI to characterise shifts between brain networks during the detection of semantic category changes
 
-** Application of reliable cross frequency coupling metrics to task-based MEG data
+* Application of reliable cross frequency coupling metrics to task-based MEG data
 
-** Development of educational interventions for secondary school pupils with autistic spectrum conditions
+* Development of educational interventions for secondary school pupils with autistic spectrum conditions
 
 ## Social Media
   
@@ -45,11 +45,11 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
 
 ## Software Devlopment/Use
 
-I have always been fascinated by computers and their application in solving real-world problems. I am proficient in [MATLAB](https://www.mathworks.com/products/matlab.html) and [Python](https://www.python.org/) and I'm slowly trying to learn HTML! I work with several different programs/libraries including:
+I have always been fascinated by computers and their application in solving real-world problems. I am proficient in **[MATLAB](https://www.mathworks.com/products/matlab.html)** and **[Python](https://www.python.org/)** and I'm slowly trying to learn HTML! I work with several different programs/libraries including:
 
-* [Fieldtrip Toolbox](http://www.fieldtriptoolbox.org/) for MEG data analysis
+* **[Fieldtrip Toolbox](http://www.fieldtriptoolbox.org/) for MEG data analysis**
 * Custom MATLAB code for the calculation of [Phase Amplitude Coupling (PAC)](http://neurofractal.tumblr.com/post/137022821953/phase-amplitude-coupling-pac-a-mechanism-for)
-* [Psychopy](http://www.psychopy.org/) for programming psychology experiments
+* **[Psychopy](http://www.psychopy.org/) for programming psychology experiments**
 * [Eprime](https://www.pstnet.com/eprime.cfm) for programming psychology experiments
 * Scientific Python (numpy, pandas, matplotlib, plotly) for psychology/behavioural data analysis and presentation
 

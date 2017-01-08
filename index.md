@@ -5,6 +5,8 @@ I am especially interested in autism, developmental neuroscience and the dynamic
 
 I am also an advocate of open science & I aim to share all data and code whenever possible
 
+![alt tag](http://i.imgur.com/P9dF0Vp.png)
+
 #### My CV can be downloaded [here](https://docs.google.com/document/d/1NxBkX8fHCGhypvmDhVpfYXQ6GWnsuztq19GSJQR7weo/edit?usp=sharing)
 
 #### My publications can be viewed [here](https://scholar.google.co.uk/citations?user=IAAhK00AAAAJ&hl=en) 

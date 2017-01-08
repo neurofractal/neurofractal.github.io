@@ -17,7 +17,7 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
 
   * Application of advanced/directional measures of MEG connectivity to the study of sensory brain oscillations in autism. [CODE](https://github.com/neurofractal/MEG-granger-visual).
   
-  [Imgur](http://i.imgur.com/t0JpLFp.png)
+  ![Imgur](http://i.imgur.com/t0JpLFp.png)
   
   * Investigating perspective-taking abilities in adolescents with and without autism using MEG. [CODE](https://github.com/neurofractal/Perspective-Taking-MEG-Analysis).
   

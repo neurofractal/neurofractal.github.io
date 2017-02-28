@@ -21,6 +21,8 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
   
   * Investigating perspective-taking abilities in adolescents with and without autism using MEG. [CODE](https://github.com/neurofractal/Perspective-Taking-MEG-Analysis).
   
+  * The Detection of Phase Amplitude Coupling During Sensory Processing [ABSTRACT SUBMITTED TO FRONTIERS IN BRAIN IMAGING METHODS](https://www.dropbox.com/s/znvdysgifw0a255/frontiers_PAC_FINAL.docx?dl=0)
+  
   * Using an interactive eye-tracking and MEG to investigate brain oscillations and atypical joint attention in autism. (To be conducted at Macquarie Universty April 2017-)
 
 * MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.<br />

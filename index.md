@@ -25,6 +25,8 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
  
 * The (Reliable) Detection of Phase Amplitude Coupling During Sensory Processing 
     * [ABSTRACT SUBMITTED TO FRONTIERS IN BRAIN IMAGING METHODS](https://www.dropbox.com/s/znvdysgifw0a255/frontiers_PAC_FINAL.docx?dl=0)
+    
+    ![Imgur](http://i.imgur.com/Jsrrwbt.jpg)
 
 * MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.<br />
 

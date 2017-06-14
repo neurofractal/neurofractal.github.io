@@ -21,7 +21,7 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
   
   * Investigating perspective-taking abilities in adolescents with and without autism using MEG. [CODE](https://github.com/neurofractal/Perspective-Taking-MEG-Analysis).
   
-  * Using an interactive eye-tracking and MEG to investigate brain oscillations and atypical joint attention in autism. (To be conducted at Macquarie Universty April 2017-)
+  * Mismatch Negativity (MMN) Responses in Children & Adolescents with Autism Spectrum Disorder
  
 * The (Reliable) Detection of Phase Amplitude Coupling During Sensory Processing 
     * [ABSTRACT SUBMITTED TO FRONTIERS IN BRAIN IMAGING METHODS](https://www.dropbox.com/s/znvdysgifw0a255/frontiers_PAC_FINAL.docx?dl=0)
@@ -32,7 +32,7 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
 
   * We used MEG, task-based and resting-state fMRI to characterise shifts between brain networks during the detection of semantic category changes
 
-* Development of educational interventions for secondary school pupils with autism spectrum conditions
+* Development of evidence-based interventions for secondary school pupils with autism spectrum conditions
 
 ## Social Media
   

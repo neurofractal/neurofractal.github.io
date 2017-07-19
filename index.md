@@ -27,7 +27,7 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
     * [Pre-print available on BioRxiv](http://www.biorxiv.org/content/early/2017/07/13/163006?%3Fcollection=)
     * [Code available on Github](https://github.com/neurofractal/sensory_PAC)
     
-    ![Github](https://raw.githubusercontent.com/neurofractal/sensory_PAC/master/figures_and_results/PAC_figure4-1.jpg)
+    ![Imgur](http://i.imgur.com/7H2yAYL.jpg)
 
 * MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.<br />
 

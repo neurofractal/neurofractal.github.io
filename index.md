@@ -23,13 +23,13 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
   
   * Mismatch Negativity (MMN) Responses in Children & Adolescents with Autism Spectrum Disorder
  
-* The (Reliable) Detection of Phase Amplitude Coupling During Sensory Processing 
+* **The (Reliable) Detection of Phase Amplitude Coupling During Sensory Processing** 
     * [Pre-print available on BioRxiv](http://www.biorxiv.org/content/early/2017/07/13/163006?%3Fcollection=)
     * [Code available on Github](https://github.com/neurofractal/sensory_PAC)
     
     ![Imgur](http://i.imgur.com/7H2yAYL.jpg)
 
-* MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.<br />
+* **MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.**<br />
 
   * We used MEG, task-based and resting-state fMRI to characterise shifts between brain networks during the detection of semantic category changes
 

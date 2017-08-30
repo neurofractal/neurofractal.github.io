@@ -25,7 +25,7 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
   
   * Mismatch Negativity (MMN) Responses in Children & Adolescents with Autism Spectrum Disorder
   
-  * More broadly, I am interested in relating predictive-coding to patterns of brain connectivity to investigate hierchical Bayesian inference in autism.
+  * More broadly, I am interested in relating predictive-coding to patterns of brain connectivity and hierchical Bayesian inference in autism.
 
 * **The (Reliable) Detection of Phase Amplitude Coupling During Sensory Processing** 
     * [Pre-print available on BioRxiv](http://www.biorxiv.org/content/early/2017/07/13/163006?%3Fcollection=)

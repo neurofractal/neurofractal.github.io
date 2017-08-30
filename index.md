@@ -15,19 +15,27 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
 
 * **PhD Project: MEG studies of atypical cortical activity in autism** <br />
 
+  * Brain oscillations and connectivity in autism spectrum disorders (ASD): new approaches to methodology, measurement and modelling. [Neuroscience & Biobehavioral Reviews, 71, 601-620.](http://www.sciencedirect.com/science/article/pii/S0149763416303530)
+
   * Application of advanced/directional measures of MEG connectivity to the study of sensory brain oscillations in autism. [CODE](https://github.com/neurofractal/MEG-granger-visual).
   
   ![Imgur](http://i.imgur.com/t0JpLFp.png)
   
-  * Investigating perspective-taking abilities in adolescents with and without autism using MEG. [CODE](https://github.com/neurofractal/Perspective-Taking-MEG-Analysis).
+  * Investigating perspective-taking abilities in adolescents with and without autism using MEG.
   
   * Mismatch Negativity (MMN) Responses in Children & Adolescents with Autism Spectrum Disorder
- 
+  
+  * More broadly, I am interested in relating predictive-coding to patterns of brain connectivity to investigate hierchical Bayesian inference in autism.
+
 * **The (Reliable) Detection of Phase Amplitude Coupling During Sensory Processing** 
     * [Pre-print available on BioRxiv](http://www.biorxiv.org/content/early/2017/07/13/163006?%3Fcollection=)
     * [Code available on Github](https://github.com/neurofractal/sensory_PAC)
     
     ![Imgur](http://i.imgur.com/7H2yAYL.jpg)
+    
+* **Investigating Developmental Changes in MEG Resting-State Connectivity** 
+
+    * Working with [Dr. Wei He](https://www.cogsci.mq.edu.au/members/profile.php?memberID=643), I will be collecting and analysing resting-state MEG data from children aged 3-6 years old. Our aim is to investigate developmental changes in oscillation-based functional connectivity.
 
 * **MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.**<br />
 

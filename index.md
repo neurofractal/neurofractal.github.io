@@ -7,7 +7,7 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
 
 ![alt tag](http://i.imgur.com/P9dF0Vp.png)
 
-#### My CV can be downloaded [here](https://github.com/neurofractal/neurofractal.github.io/blob/master/R_Seymour_CV_Nov_18.pdf)
+#### My CV can be downloaded [here](https://www.dropbox.com/s/zblfz1f8r8dqlt8/R_Seymour_CV_Nov_18.pdf?dl=0)
 
 #### My publications can be viewed [here](https://scholar.google.co.uk/citations?user=IAAhK00AAAAJ&hl=en) 
 

@@ -1,21 +1,21 @@
 
-Hello, I am a cognitive neuroscience post-doctoral researcher at [Macquarie University](https://www.mq.edu.au/). I previously completed my cotutelle PhD at [Aston University](http://www.aston.ac.uk/lhs/research/centres-facilities/brain-centre/) and [Macquarie University](https://www.mq.edu.au/).
+Hello, I am a cognitive neuroscience post-doctoral researcher at **[Macquarie University](https://www.mq.edu.au/)**. I previously completed my cotutelle PhD at [Aston University](http://www.aston.ac.uk/lhs/research/centres-facilities/brain-centre/) and [Macquarie University](https://www.mq.edu.au/).
 
-Research areas: brain connectivity in [Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx); MEG/EEG methodology; oscillation-based mechanisms of functional connectivity; developmental cognitive neuroscience.
+Research areas: brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**; **MEG/EEG** methodology; **oscillation**-based mechanisms of functional connectivity; **developmental** cognitive neuroscience.
 
-I am also an advocate of [open science](https://elifesciences.org/content/5/e16800?utm_campaign=BMC40104U&utm_medium=BMCemail&utm_source=Teradata) and aim to share data and code whenever possible.
+I am also an advocate of **[open science](https://elifesciences.org/content/5/e16800?utm_campaign=BMC40104U&utm_medium=BMCemail&utm_source=Teradata)** and aim to share data and code whenever possible.
 
 ![alt tag](http://i.imgur.com/P9dF0Vp.png)
 
 ## Links
 
-#### Email Address [[link]](mailto:robert.seymour@mq.edu.au)
+* #### Email Address [[link]](mailto:robert.seymour@mq.edu.au)
 
-#### Academic CV [[link]](https://www.dropbox.com/s/spcpqdmt5wikiia/Copy%20of%20Robert%20Seymour%20CV%202018%20%202%20PAGE.docx%20%286%29.pdf?dl=0)
+* #### Academic CV [[link]](https://www.dropbox.com/s/spcpqdmt5wikiia/Copy%20of%20Robert%20Seymour%20CV%202018%20%202%20PAGE.docx%20%286%29.pdf?dl=0)
 
-#### Google Scholar [[link]](https://scholar.google.co.uk/citations?user=IAAhK00AAAAJ&hl=en) 
+* #### Google Scholar [[link]](https://scholar.google.co.uk/citations?user=IAAhK00AAAAJ&hl=en) 
 
-#### Github [[link]](http://github.com/neurofractal)
+* #### Github [[link]](http://github.com/neurofractal)
 
 ## Active Projects
 

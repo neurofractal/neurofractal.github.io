@@ -1,5 +1,5 @@
 
-Hello, I am a cotutelle PhD student at [Aston University](http://www.aston.ac.uk/lhs/research/centres-facilities/brain-centre/) and [Macquarie University](https://www.mq.edu.au/), researching brain connectivity in autism using [magnetoencephalography (MEG)](http://www.scholarpedia.org/article/Magnetoencephalogram). 
+Hello, I am a cognitive neuroscience post-doctoral researcher [Macquarie University](https://www.mq.edu.au/). I previously completed my cotutelle PhD at [Aston University](http://www.aston.ac.uk/lhs/research/centres-facilities/brain-centre/) and [Macquarie University](https://www.mq.edu.au/), researching brain connectivity in autism using [magnetoencephalography (MEG)](http://www.scholarpedia.org/article/Magnetoencephalogram). 
 
 I am especially interested in [autism](http://www.autism.org.uk/about/what-is.aspx), developmental neuroscience and the dynamics of whole brain cortical activity, with a focus on the application of novel analysis methods to clinical datasets.
 
@@ -13,7 +13,7 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
 
 ## Active Projects
 
-* **PhD Project: MEG studies of atypical cortical activity in autism** <br />
+* **MEG studies of atypical cortical activity in autism** <br />
 
   * Brain oscillations and connectivity in autism spectrum disorders (ASD): new approaches to methodology, measurement and modelling. [Neuroscience & Biobehavioral Reviews, 71, 601-620.](http://www.sciencedirect.com/science/article/pii/S0149763416303530)
 
@@ -37,11 +37,6 @@ I am also an advocate of [open science](https://elifesciences.org/content/5/e168
 
     * Working with [Dr. Wei He](https://www.cogsci.mq.edu.au/members/profile.php?memberID=643), I will be collecting and analysing resting-state MEG data from children aged 3-6 years old. Our aim is to investigate developmental changes in oscillation-based functional connectivity.
 
-* **MSc Thesis: Spatiotemporal Dynamics of Retreival Within & Between Semantic Categories.**<br />
-
-  * We used MEG, task-based and resting-state fMRI to characterise shifts between brain networks during the detection of semantic category changes
-
-* Development of evidence-based interventions for secondary school pupils with autism spectrum conditions
 
 ## Social Media
   
@@ -60,10 +55,11 @@ I also blog very infrequently about neuroscience, computing and cool paper graph
 
 ## Software Devlopment/Use
 
-I have always been fascinated by computers and their application in solving real-world problems. I am proficient in **[MATLAB](https://www.mathworks.com/products/matlab.html)** and **[Python](https://www.python.org/)** and I'm slowly trying to learn HTML! I work with several different programs/libraries including:
+I am proficient in **[MATLAB](https://www.mathworks.com/products/matlab.html)** and **[Python](https://www.python.org/)** and I'm slowly trying to learn HTML! I work with several different programs/libraries including:
 
 * **[Fieldtrip Toolbox](http://www.fieldtriptoolbox.org/) for MEG data analysis**
 * Custom MATLAB code for the calculation of [Phase Amplitude Coupling (PAC)](http://neurofractal.tumblr.com/post/137022821953/phase-amplitude-coupling-pac-a-mechanism-for)
 * **[Psychopy](http://www.psychopy.org/) for programming psychology experiments**
 * [Eprime](https://www.pstnet.com/eprime.cfm) for programming psychology experiments
 * Scientific Python (numpy, pandas, matplotlib, plotly) for psychology/behavioural data analysis and presentation
+* Machine Learning (novice user of scikit-learn and tensorflow)

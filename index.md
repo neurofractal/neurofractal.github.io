@@ -1,5 +1,5 @@
 
-<img src="./images/seymour.jpg" width="200">
+<img src="./images/seymour2.jpg" width="260">
 
 
 #### Cognitive neuroscience post-doctoral researcher at **[Macquarie University](https://www.mq.edu.au/)**. Soon to start as Technology Integration Research Fellow, UCL Institute of Neurology. 

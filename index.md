@@ -1,5 +1,6 @@
 
-# Robert Seymour
+<img src="./images/robert_0106_123.jpg" width="150">
+
 
 #### Cognitive neuroscience post-doctoral researcher at **[Macquarie University](https://www.mq.edu.au/)**. Soon to start as Technology Integration Research Fellow, UCL Institute of Neurology. 
 

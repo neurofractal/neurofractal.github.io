@@ -1,9 +1,15 @@
 
-Hello, I am a cognitive neuroscience post-doctoral researcher at **[Macquarie University](https://www.mq.edu.au/)**. I previously completed my cotutelle PhD at [Aston University](http://www.aston.ac.uk/lhs/research/centres-facilities/brain-centre/) and [Macquarie University](https://www.mq.edu.au/).
+# Robert Seymour
 
-Research areas: brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**; **MEG/EEG** methodology; **oscillation**-based mechanisms of functional connectivity; **developmental** cognitive neuroscience.
+#### Cognitive neuroscience post-doctoral researcher at **[Macquarie University](https://www.mq.edu.au/)**. Soon to start as Technology Integration Research Fellow, UCL Institute of Neurology. 
 
-I am also an advocate of **[open science](https://elifesciences.org/content/5/e16800?utm_campaign=BMC40104U&utm_medium=BMCemail&utm_source=Teradata)** and aim to share data and code whenever possible.
+## Research areas
+- Brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**
+- **MEG/EEG** methodology
+- Neural time-series analysis 
+- Developmental cognitive neuroscience
+
+I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?utm_campaign=BMC40104U&utm_medium=BMCemail&utm_source=Teradata)** and aim to share data and code whenever possible.
 
 ![alt tag](http://i.imgur.com/P9dF0Vp.png)
 
@@ -17,32 +23,26 @@ I am also an advocate of **[open science](https://elifesciences.org/content/5/e1
 
 * #### Github [[link]](http://github.com/neurofractal)
 
+## Key Publications
+
+- Kessler, K., **Seymour, R. A.,** & Rippon, G. (2016). Brain oscillations and connectivity in autism spectrum disorders (ASD): new approaches to methodology, measurement and modelling. [Neuroscience & Biobehavioral Reviews, 71, 601-620.](https://doi.org/10.1016/j.neubiorev.2016.10.002) 
+- **Seymour, R. A.,** Rippon, G., & Kessler, K. (2017). The Detection of Phase Amplitude Coupling during Sensory Processing. [Frontiers in neuroscience, 11, 487.](https://doi.org/10.3389/fnins.2017.00487)
+- **Seymour, R. A.,** Wang, H., Rippon, G., & Kessler, K. (2018). Oscillatory networks of high-level mental alignment: A perspective-taking MEG study. [NeuroImage, 177, 98-107.](https://doi.org/10.1016/j.neuroimage.2018.05.016) 
+- **Seymour, R. A.,** Rippon, G., Gooding-Williams, G., Schoffelen, J. M., & Kessler, K. (2019). Dysregulated Oscillatory Connectivity in the Visual System in Autism Spectrum Disorder. [Brain, 2019](https://doi.org/10.1093/brain/awz214).
+
+## Preprints:
+- Nunes, A. S., Kozhemiako, N., Moiseev, A., **Seymour, R. A.,** Cheung, T. P., Ribary, U., & Doesburg, S. M. (2019). Neuromagnetic activation dynamics of stimulus-locked processing during a naturalistic viewing. In Revision, Neuroimage. BioRxiv, 711457.
+
+
 ## Active Projects
 
-* **MEG studies of atypical cortical activity in autism** <br />
-
-  * Brain oscillations and connectivity in autism spectrum disorders (ASD): new approaches to methodology, measurement and modelling. [Neuroscience & Biobehavioral Reviews, 71, 601-620.](http://www.sciencedirect.com/science/article/pii/S0149763416303530)
-
-  * Application of advanced/directional measures of MEG connectivity to the study of sensory brain oscillations in autism. [CODE](https://github.com/neurofractal/MEG-granger-visual).
+  * The Neural Basis of Perspective-Taking in Neurotypical and Autistic Populations
   
-  ![Imgur](http://i.imgur.com/t0JpLFp.png)
+  * The neural mechanisms of predictive-coding during infancy: a developmental study
   
-  * Investigating perspective-taking abilities in adolescents with and without autism using MEG.
+  * Reliable MEG source analysis in children
   
-  * Mismatch Negativity (MMN) Responses in Children & Adolescents with Autism Spectrum Disorder
-  
-  * More broadly, I am interested in relating predictive-coding to patterns of brain connectivity and hierchical Bayesian inference in autism.
-
-* **The (Reliable) Detection of Phase Amplitude Coupling During Sensory Processing** 
-    * [Pre-print available on BioRxiv](http://www.biorxiv.org/content/early/2017/07/13/163006?%3Fcollection=)
-    * [Code available on Github](https://github.com/neurofractal/sensory_PAC)
-    
-    ![Imgur](http://i.imgur.com/7H2yAYL.jpg)
-    
-* **Investigating Developmental Changes in MEG Resting-State Connectivity** 
-
-    * Working with [Dr. Wei He](https://www.cogsci.mq.edu.au/members/profile.php?memberID=643), I will be collecting and analysing resting-state MEG data from children aged 3-6 years old. Our aim is to investigate developmental changes in oscillation-based functional connectivity.
-
+  * MEG-resting state connectivity
 
 ## Social Media
   
@@ -51,21 +51,13 @@ I am also an advocate of **[open science](https://elifesciences.org/content/5/e1
   <a href="https://twitter.com/neurofractal" class="twitter-follow-button" data-show-count="false">Follow @neurofractal</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </dl>
   
-  
-  Recently, I have started a **Github** account, [@neurofractal](https://github.com/neurofractal), where I share MEG data analysis code and psychology experiments I have coded in [Psychopy](http://www.psychopy.org/).
-  <!-- Place this tag where you want the button to render. -->
-  
-<a class="github-button" href="https://github.com/neurofractal" data-style="mega" data-count-href="/neurofractal/followers" data-count-api="/users/neurofractal#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @neurofractal on GitHub">Follow @neurofractal</a>
+## Software Development/Use
 
-I also blog very infrequently about neuroscience, computing and cool paper graphics. [LINK](http://neurofractal.tumblr.com/)
-
-## Software Devlopment/Use
-
-I am proficient in **[MATLAB](https://www.mathworks.com/products/matlab.html)** and **[Python](https://www.python.org/)** and I'm slowly trying to learn HTML! I work with several different programs/libraries including:
+I am proficient in **[MATLAB](https://www.mathworks.com/products/matlab.html)** and **[Python](https://www.python.org/)**. I work with several different programs/libraries including:
 
 * **[Fieldtrip Toolbox](http://www.fieldtriptoolbox.org/) for MEG data analysis**
 * Custom MATLAB code for the calculation of [Phase Amplitude Coupling (PAC)](http://neurofractal.tumblr.com/post/137022821953/phase-amplitude-coupling-pac-a-mechanism-for)
 * **[Psychopy](http://www.psychopy.org/) for programming psychology experiments**
 * [Eprime](https://www.pstnet.com/eprime.cfm) for programming psychology experiments
 * Scientific Python (numpy, pandas, matplotlib, plotly) for psychology/behavioural data analysis and presentation
-* Machine Learning (novice user of scikit-learn and tensorflow)
+* Machine Learning (user of scikit-learn and tensorflow)

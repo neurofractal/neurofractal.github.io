@@ -2,11 +2,11 @@
 <img src="./images/seymour2.jpg" width="260">
 
 
-#### Cognitive neuroscience post-doctoral researcher at **[Macquarie University](https://www.mq.edu.au/)**. Soon to start as Technology Integration Research Fellow, UCL Institute of Neurology. 
+#### Cognitive neuroscience Technology Integration Research Fellow at the **[Wellcome Centre for Human Neuroimaging](https://www.fil.ion.ucl.ac.uk/)**. Previously PhD Student and Postdoc at Macquarie University.
 
 ## Research areas
 - Brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**
-- **MEG/EEG** methodology
+- **MEG and Optically-Pumped MEG** method development
 - Neural time-series analysis 
 - Developmental cognitive neuroscience
 
@@ -16,10 +16,10 @@ I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?
 
 ## Links
 
-* #### Email Address [[link]](mailto:robert.seymour@mq.edu.au)
+* #### Email Address [[link]](mailto:rob.seymour@ucl.ac.uk)
 
-* #### Academic CV [[link]](https://www.dropbox.com/s/spcpqdmt5wikiia/Copy%20of%20Robert%20Seymour%20CV%202018%20%202%20PAGE.docx%20%286%29.pdf?dl=0)
-
+* #### Academic CV (TO FOLLOW)
+)
 * #### Google Scholar [[link]](https://scholar.google.co.uk/citations?user=IAAhK00AAAAJ&hl=en) 
 
 * #### Github [[link]](http://github.com/neurofractal)
@@ -32,18 +32,18 @@ I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?
 - **Seymour, R. A.,** Rippon, G., Gooding-Williams, G., Schoffelen, J. M., & Kessler, K. (2019). Dysregulated Oscillatory Connectivity in the Visual System in Autism Spectrum Disorder. [Brain, 2019](https://doi.org/10.1093/brain/awz214).
 
 ## Preprints:
-- Nunes, A. S., Kozhemiako, N., Moiseev, A., **Seymour, R. A.,** Cheung, T. P., Ribary, U., & Doesburg, S. M. (2019). Neuromagnetic activation dynamics of stimulus-locked processing during a naturalistic viewing. In Revision, Neuroimage. BioRxiv, 711457.
+- Seymour, R. A., Rippon, G., Gooding-Williams, G., Sowman, P. F., & Kessler, K. (2019). Reduced Auditory Steady State Responses in Autism Spectrum Disorder. bioRxiv, 837633.
 
 
 ## Active Projects
 
+  * Integrating virtual reality with wearable (OP-)MEG to investigate naturalistic brain function
+
   * The Neural Basis of Perspective-Taking in Neurotypical and Autistic Populations
+
+  * Visual Snow - a disorder of dysrhythmia? 
   
-  * The neural mechanisms of predictive-coding during infancy: a developmental study
-  
-  * Reliable MEG source analysis in children
-  
-  * MEG-resting state connectivity
+  * MEG-resting state connectivity method development
 
 ## Social Media
   

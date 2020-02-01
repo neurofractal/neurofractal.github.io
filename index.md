@@ -19,7 +19,7 @@ I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?
 * #### Email Address [[link]](mailto:rob.seymour@ucl.ac.uk)
 
 * #### Academic CV (TO FOLLOW)
-)
+
 * #### Google Scholar [[link]](https://scholar.google.co.uk/citations?user=IAAhK00AAAAJ&hl=en) 
 
 * #### Github [[link]](http://github.com/neurofractal)

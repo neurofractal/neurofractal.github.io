@@ -18,7 +18,7 @@ I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?
 
 * #### Email Address [[link]](mailto:rob.seymour@ucl.ac.uk)
 
-* #### Academic CV (TO FOLLOW)
+* #### Academic CV [[link]](https://docs.google.com/document/d/1jDZKCDEXu6r5ropmIk2tI1q334lkidTuAzkDNIMc148/edit?usp=sharing)
 
 * #### Google Scholar [[link]](https://scholar.google.co.uk/citations?user=IAAhK00AAAAJ&hl=en) 
 

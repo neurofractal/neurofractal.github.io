@@ -6,8 +6,8 @@
 
 ## Research areas
 - Brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**
-- **MEG and Optically-Pumped MEG** method development
-- Neural time-series analysis 
+- **MEG and Optically-Pumped MEG** methods development, in particular for naturalistic paradigms
+- Neural time-series analysis
 - Developmental cognitive neuroscience
 
 I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?utm_campaign=BMC40104U&utm_medium=BMCemail&utm_source=Teradata)** and aim to share data and code whenever possible.

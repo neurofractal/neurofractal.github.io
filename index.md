@@ -3,7 +3,7 @@
 
 
 #### Cognitive neuroscience Technology Integration Research Fellow at the **[Wellcome Centre for Human Neuroimaging](https://www.fil.ion.ucl.ac.uk/)**. 
-Previously PhD Student and Postdoc at Macquarie University.
+#### Previously PhD Student and Postdoc at Macquarie University.
 
 ## Research areas
 - Brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**

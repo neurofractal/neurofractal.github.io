@@ -6,9 +6,9 @@
 #### Previously PhD Student and Postdoc at Macquarie University.
 
 ## Research areas
-- Brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**
-- **MEG and Optically-Pumped MEG** methods development for naturalistic paradigms
+- **MEG and Optically-Pumped MEG** methods development, with a focus on naturalistic paradigms
 - Neural time-series analysis
+- Brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**
 - Autobiographical Memory
 
 I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?utm_campaign=BMC40104U&utm_medium=BMCemail&utm_source=Teradata)** and aim to share data and code whenever possible.

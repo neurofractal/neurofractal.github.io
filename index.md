@@ -33,8 +33,9 @@ I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?
 - **Seymour, R. A.,** Rippon, G., Gooding-Williams, G., Schoffelen, J. M., & Kessler, K. (2019). Dysregulated Oscillatory Connectivity in the Visual System in Autism Spectrum Disorder. [Brain, 2019](https://doi.org/10.1093/brain/awz214).
 - **Seymour, R. A.,** Rippon, G., Gooding-Williams, G., Sowman, P. F., & Kessler, K. (2020). Reduced auditory steady state responses in autism spectrum disorder. Molecular autism, 11(1), 1-13.
 
-## Preprints:
-- Tierney, T. M., Alexander, N., Mellor, S., Holmes, N., **Seymour, R.,** O'Neill, G. C., ... & Barnes, G. R. (2020). Modelling optically pumped magnetometer interference as a mean (magnetic) field. bioRxiv.
+## Preprints/submitted:
+- **Seymour, R. A**., Alexander, N., Mellor, S. J., O'Neill, G. C., Tierney, T. M., Barnes, G. R., & Maguire, E. A. (2021). Using OPMs to measure neural activity in standing, mobile participants. bioRxiv.
+- **Seymour, R. A**., Hepschke, J. L., He, W. A., Etchell, A., Sowman, P. F., & Fraser, C. (2021). Cortical Oscillatory Dysrhythmias in Visual Snow Syndrome: A MEG Study. bioRxiv.
 
 ## Active Projects
 

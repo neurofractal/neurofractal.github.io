@@ -6,7 +6,7 @@
 #### Previously PhD Student and Postdoc at Macquarie University.
 
 ## Research areas
-- **MEG and Optically-Pumped MEG** methods development, with a focus on naturalistic paradigms
+- **MEG and Optically-Pumped MEG** methods development, with a focus on wearable, naturalistic experiments
 - Neural time-series analysis
 - Brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**
 - Autobiographical Memory
@@ -17,7 +17,7 @@ I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?
 
 ## Links
 
-* #### [Email Address]()(mailto:rob.seymour@ucl.ac.uk)
+* #### [Email Address](mailto:rob.seymour@ucl.ac.uk)
 
 * #### [Academic CV](https://docs.google.com/document/d/1jDZKCDEXu6r5ropmIk2tI1q334lkidTuAzkDNIMc148/edit?usp=sharing)
 
@@ -44,7 +44,7 @@ I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?
 
   * Integrating virtual reality with wearable OPM-MEG to investigate autobiographical memory encoding and retrieval
   
-  * Methods development for naturalistic OPM-MEG data 
+  * Methods development for naturalistic OPM-MEG data including robust oscillatory [burst detection](https://github.com/neurofractal/fBOSC)
   
   * The Neural Basis of Perspective-Taking in Neurotypical and Autistic Populations
     

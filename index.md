@@ -44,16 +44,7 @@ I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?
   
   * The Neural Basis of Perspective-Taking in Neurotypical and Autistic Populations
 
-## OPM Data Analysis Tutorials
 
-#### 1. Auditory evoked field paradigm during participant movement
-- Data: https://doi.org/10.5281/zenodo.5539414
-- Script: [pipeline_tutorial_1.m](https://github.com/FIL-OPMEG/tutorials_interference/blob/main/pipeline_tutorial_2.m)
-
-#### 2. Motor-beta power changes during a finger-tapping paradigm
-- Data: https://doi.org/10.5281/zenodo.5539414
-- Script: [pipeline_tutorial_2.m](https://github.com/FIL-OPMEG/tutorials_interference/blob/main/pipeline_tutorial_2.m)
-    
 ## Social Media
   
  You can find me on **Twitter** [@neurofractal](https://twitter.com/neurofractal), **Instagram** [neurofractal](https://www.instagram.com/neurofractal/) and **LinkedIn** [Robert Seymour](https://www.linkedin.com/in/robert-seymour-9aba6580?trk=nav_responsive_tab_profile_pic)
@@ -70,3 +61,14 @@ I am proficient in **[MATLAB](https://www.mathworks.com/products/matlab.html)** 
 * **[Psychopy](http://www.psychopy.org/) for stimulus presentation**
 * Scientific Python (numpy, pandas, matplotlib, plotly) for behavioural data analysis and publication-quality data visualisation
 * Machine Learning (user of scikit-learn and novice user of tensorflow)
+
+## OPM Data Analysis Tutorials
+
+#### 1. Auditory evoked field paradigm during participant movement
+- Data: [https://doi.org/10.5281/zenodo.5539414](ttps://doi.org/10.5281/zenodo.5539414)
+- Script: [pipeline_tutorial_1.m](https://github.com/FIL-OPMEG/tutorials_interference/blob/main/pipeline_tutorial_2.m)
+
+#### 2. Motor-beta power changes during a finger-tapping paradigm
+- Data: [https://doi.org/10.5281/zenodo.5539414](https://doi.org/10.5281/zenodo.5539414)
+- Script: [pipeline_tutorial_2.m](https://github.com/FIL-OPMEG/tutorials_interference/blob/main/pipeline_tutorial_2.m)
+    

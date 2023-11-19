@@ -2,16 +2,15 @@
 <img src="./images/seymour2.jpg" width="260">
 
 
-#### Cognitive neuroscience Technology Integration Research Fellow at the **[Wellcome Centre for Human Neuroimaging](https://www.fil.ion.ucl.ac.uk/)**. 
-#### Previously PhD Student and Postdoc at Macquarie University.
+### Cognitive Neuroscientist (Research Fellow) at the **[Wellcome Centre for Human Neuroimaging](https://www.fil.ion.ucl.ac.uk/)**, UCL, London, UK.
 
 ## Research areas
-- **MEG and Optically-Pumped MEG** methods development, with a focus on wearable, naturalistic experiments
-- Neural time-series analysis
+- Neuroscience of Social interaction and Communication
+- **MEG and Optically-Pumped MEG Development**, with a focus on wearability and real-world experiments
 - Brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**
 - Autobiographical Memory
 
-I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?utm_campaign=BMC40104U&utm_medium=BMCemail&utm_source=Teradata)** and aim to share data and code whenever possible.
+I am an advocate of **[open scienctific practices](https://elifesciences.org/content/5/e16800?utm_campaign=BMC40104U&utm_medium=BMCemail&utm_source=Teradata)**.
 
 ![alt tag](http://i.imgur.com/P9dF0Vp.png)
 
@@ -38,20 +37,17 @@ I am an advocate of **[open science](https://elifesciences.org/content/5/e16800?
 
 ## Active Projects
 
-  * Integrating virtual reality with wearable OPM-MEG to investigate autobiographical memory encoding and retrieval
-  
-  * Methods development for naturalistic OPM-MEG data including robust oscillatory [burst detection](https://github.com/neurofractal/fBOSC)
-  
-  * The Neural Basis of Perspective-Taking in Neurotypical and Autistic Populations
+  * Integrating virtual reality with wearable OPM-MEG to investigate autobiographical memory encoding and retrieval.
+    
+  * Studying the neural mechanisms of social interaction and communication using OPM-MEG in combination with real-world, multi-person experiments.
 
+  * The Neural Basis of Perspective-Taking in Neurotypical and Autistic Populations.
+    
 
 ## Social Media
   
- You can find me on **Twitter** [@neurofractal](https://twitter.com/neurofractal), **Instagram** [neurofractal](https://www.instagram.com/neurofractal/) and **LinkedIn** [Robert Seymour](https://www.linkedin.com/in/robert-seymour-9aba6580?trk=nav_responsive_tab_profile_pic)
-  <dl>
-  <a href="https://twitter.com/neurofractal" class="twitter-follow-button" data-show-count="false">Follow @neurofractal</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </dl>
-  
+ You can find me on **Twitter** [@neurofractal](https://twitter.com/neurofractal), **BlueSky** [@neurofractal](https://bsky.app/profile/neurofractal.bsky.social) and **LinkedIn** [Robert Seymour](https://www.linkedin.com/in/robert-seymour-9aba6580?trk=nav_responsive_tab_profile_pic)
+ 
 ## Software Development
 
 I am proficient in **[MATLAB](https://www.mathworks.com/products/matlab.html)** and **[Python](https://www.python.org/)**. I work with several different programs/libraries including:

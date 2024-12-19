@@ -1,5 +1,5 @@
 
-<img src="./images/seymour2.jpg" width="260">
+<img src="./images/RS_2024.jpg" width="260">
 
 
 ### Postdoctoral Researcher at the **[Oxford Centre for Human Brain Activity - University of Oxford]([https://www.fil.ion.ucl.ac.uk/](https://www.win.ox.ac.uk/about/our-locations/OHBA))**, 

@@ -2,13 +2,12 @@
 <img src="./images/seymour2.jpg" width="260">
 
 
-### Cognitive Neuroscientist (Research Fellow) at the **[Wellcome Centre for Human Neuroimaging](https://www.fil.ion.ucl.ac.uk/)**, UCL, London, UK.
+### Postdoctoral Researcher at the **[Oxford Centre for Human Brain Activity - University of Oxford]([https://www.fil.ion.ucl.ac.uk/](https://www.win.ox.ac.uk/about/our-locations/OHBA))**, 
 
-## Research areas
-- Neuroscience of Social interaction and Communication
-- **MEG and Optically-Pumped MEG Development**, with a focus on wearability and real-world experiments
-- Brain connectivity in **[Autism Spectrum Disorder](http://www.autism.org.uk/about/what-is.aspx)**
-- Autobiographical Memory
+#### Honorary Researcher - Department of Imaging Neuroscience, UCL, London, UK.
+
+## Research
+My research uses wearable OPM-MEG to investigate brain activity in real-world, naturalistic settings. I am particularly interested in the neuroscience of social interaction and communication, and the role of synchronised neural oscillations during two-way exchanges. This includes scanning developing neurotypical as well as autistic individuals, with the aim of understanding more about social interaction in autism. Additionally, during my postdoctal research I studied the neural basis of autobiographical memory encoding using OPMs and a novel virtual reality setup. 
 
 I am an advocate of **[open scienctific practices](https://elifesciences.org/content/5/e16800?utm_campaign=BMC40104U&utm_medium=BMCemail&utm_source=Teradata)**.
 

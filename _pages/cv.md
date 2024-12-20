@@ -13,12 +13,10 @@ redirect_from:
 
 ## **Education**
 
-**PhD Neuroscience** 2016 -- 2019
-
+**PhD Neuroscience** 2016 -- 2019  
 *Aston University, UK and Macquarie University, Australia*
 
-**MSc Cognitive Neuroscience** 2015 -- 2016
-
+**MSc Cognitive Neuroscience** 2015 -- 2016  
 *University of York, UK*
 
 -   Grade: Distinction and awarded the Cognitive Neuroscience Project
@@ -26,15 +24,13 @@ redirect_from:
 
 ## **Research Experience**
 
-**Postdoctoral Researcher** 2024 -- Present
-
+**Postdoctoral Researcher** 2024 -- Present  
 *Oxford Centre for Human Brain Activity - University of Oxford*
 
 -   Establishing the optically pumped magnetometer-based magnetoencephalography
     (OPM-MEG) lab at Oxford University.
 
-**Post-doctoral Research Fellow** 2020 -- 2024 
-
+**Post-doctoral Research Fellow** 2020 -- 2024  
 *Wellcome Centre for Human Neuroimaging, UCL, UK*
 
 -   Developed optically pumped magnetometer-based magnetoencephalography
@@ -47,8 +43,7 @@ redirect_from:
 -   Developed time-resolved analysis techniques for naturalistic
     neuroscience.
 
-**MEG Technical Research Officer** 2018 -- 2020 
-
+**MEG Technical Research Officer** 2018 -- 2020  
 *Macquarie University,Sydney, Australia*
 
 -   Collected 40 neuroimaging datasets from neurotypical and autistic
@@ -57,8 +52,7 @@ redirect_from:
 -   Developed data cleaning and analysis pipelines to measure both
     evoked and induced responses.
 
-**PhD Research** 2016 -- 2020 
-
+**PhD Research** 2016 -- 2020  
 *Aston University, UK and Macquarie University, Australia*
 
 -   Thesis Title: MEG studies of atypical cortical activity in autism

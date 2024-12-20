@@ -13,7 +13,7 @@ redirect_from:
 
 ## **Education**
 
-**PhD Neuroscience** 2016 -- 2019
+**PhD Neuroscience** 2016 -- 2019\n
 *Aston University, UK and Macquarie University, Australia*
 
 **MSc Cognitive Neuroscience** 2015 -- 2016
@@ -23,7 +23,7 @@ redirect_from:
 
 ## **Research Experience**
 
-**Postdoctoral Researcher** 2024 -- Present
+**Postdoctoral Researcher** 2024 -- Present\n
 *Oxford Centre for Human Brain Activity - University of Oxford*
 
 -   Establishing the optically pumped magnetometer-based magnetoencephalography

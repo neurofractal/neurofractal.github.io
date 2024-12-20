@@ -8,33 +8,30 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-======
 # **Dr. Robert Seymour**
 
-** Neuroimaging postdoctoral researcher with expertise in EEG, cryogenic
-MEG and wearable OPM-MEG. My research uses naturalistic paradigms and
-innovative data analyses to advance our understanding of
-neurodevelopment, memory encoding and social interactions.**
+*Neuroimaging postdoctoral researcher with expertise in EEG, cryogenic MEG and wearable OPM-MEG. My research uses naturalistic paradigms and innovative data analysis approaches understand neurodevelopment, memory encoding and social interactions.*
 
-======
 ## **Education**
 
-**PhD Neuroscience 2016 -- 2019** **Aston University, UK and Macquarie
-University, Australia**
+**PhD Neuroscience** 2016 -- 2019
+*Aston University, UK and Macquarie University, Australia*
 
-**MSc Cognitive Neuroscience 2015 -- 2016**
-
-**University of York, UK**
-
+**MSc Cognitive Neuroscience** 2015 -- 2016
+* University of York, UK*
 -   Grade: Distinction and awarded the Cognitive Neuroscience Project
     Prize.
 
-======
 ## **Research Experience**
 
-**Post-doctoral Research Fellow** **2020 -- Present** **Wellcome Centre
-for Human Neuroimaging, UCL, UK**
+**Postdoctoral Researcher** 2024 -- Present
+*Oxford Centre for Human Brain Activity - University of Oxford*
+
+-   Establishing the optically pumped magnetometer-based magnetoencephalography
+    (OPM-MEG) lab at Oxford University.
+
+**Post-doctoral Research Fellow** 2020 -- 2024 
+*Wellcome Centre for Human Neuroimaging, UCL, UK**
 
 -   Developed optically pumped magnetometer-based magnetoencephalography
     (OPM-MEG) into a wearable and fully mobile system.
@@ -46,8 +43,8 @@ for Human Neuroimaging, UCL, UK**
 -   Developed time-resolved analysis techniques for naturalistic
     neuroscience.
 
-**MEG Technical Research Officer 2018 -- 2020 Macquarie University,
-Sydney, Australia**
+**MEG Technical Research Officer** 2018 -- 2020 
+*Macquarie University,Sydney, Australia*
 
 -   Collected 40 neuroimaging datasets from neurotypical and autistic
     children aged 3-6 using a custom pediatric MEG.
@@ -55,8 +52,8 @@ Sydney, Australia**
 -   Developed data cleaning and analysis pipelines to measure both
     evoked and induced responses.
 
-**PhD Research** **2016 -- 2020 Aston University, UK and Macquarie
-University, Australia**
+**PhD Research** 2016 -- 2020 
+*Aston University, UK and Macquarie University, Australia*
 
 -   Thesis Title: MEG studies of atypical cortical activity in autism
 
@@ -66,10 +63,9 @@ University, Australia**
 -   I also studied embodied perspective-taking in neurotypical and
     autistic populations.
 
-======
 ## **Publications**
 
-**As First Author**
+### **As First Author**
 
 -   **Seymour, R. A.,** Alexander, N., & Maguire, E. A. (2022). Robust
     estimation of 1/f activity improves oscillatory burst detection.
@@ -116,7 +112,7 @@ University, Australia**
     in Neuroscience*, 11,
     487.](https://doi.org/10.3389/fnins.2017.00487)
 
-## **Collaborative papers**
+### **Collaborative papers**
 
 -   Spedden, M. E., O\'Neill, G. C., Timms, R. C., West, T. O.,
     Mellor, S. J., Tierney, T. M., \... & Barnes, G. R. (2024).

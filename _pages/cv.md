@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Dr. Robert Seymour"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-# **Dr. Robert Seymour**
 
 *Neuroimaging postdoctoral researcher with expertise in EEG, cryogenic MEG and wearable OPM-MEG. My research uses naturalistic paradigms and innovative data analysis approaches understand neurodevelopment, memory encoding and social interactions.*
 

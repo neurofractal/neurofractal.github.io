@@ -21,11 +21,11 @@ repository               : "neurofractal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "RS.jpg"
+  avatar           : "RS_2024.jpg"
   name             : "Rob Seymour"
   pronouns         : # example: "she/her"  
   bio              : "Neuroscience Researcher"
-  location         : ""
+  location         : 
   employer         : "University of Oxford"
   uri              : # URL
   email            : "rob.seymour@psych.ox.ac.uk" 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8600-8123"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 

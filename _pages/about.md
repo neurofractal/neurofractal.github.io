@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Thanks for clicking on my personal webpage!
 
 ## Positions 

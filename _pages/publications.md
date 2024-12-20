@@ -11,11 +11,11 @@ redirect_from:
 
 **Seymour, R. A.,** Alexander, N., & Maguire, E. A. (2022). Robust estimation of 1/f activity improves oscillatory burst detection. [European Journal of Neuroscience, 1– 17.](https://doi.org/10.1111/ejn.15829)
 
-* An improved method for detecting oscillatory bursts by estimating background 1/f activity more accurately.*
+* * An improved method for detecting oscillatory bursts by estimating background 1/f activity more accurately.
 
 **Seymour, R. A.,** Alexander, N., Mellor, S., O'Neill, G. C., Tierney, T. M., Barnes, G. R., & Maguire, E. A. (2021). Interference suppression techniques for OPM-based MEG: Opportunities and challenges. [NeuroImage, 118834.](https://doi.org/10.1016/j.neuroimage.2021.118834)
 
-* A tutorial-based review on issues with interference (noise) in wearable OPM-MEG recordings and how to fix these issues. We focus on software-based interference suppression and include two detailed tutorials.*
+* * A tutorial-based review on issues with interference (noise) in wearable OPM-MEG recordings and how to fix these issues. We focus on software-based interference suppression and include two detailed tutorials.*
 
 **Seymour, R. A.,** Alexander, N., Mellor, S. J., O'Neill, G. C., Tierney, T. M., Barnes, G. R., & Maguire, E. A. (2021). Using OPMs to measure neural activity in standing, mobile participants. [Neuroimage.](https://doi.org/10.1016/j.neuroimage.2021.118604)
 

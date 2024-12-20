@@ -1,19 +1,21 @@
 ---
 permalink: /
-title: "Bio"
+title: "Robert Seymour"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Positions 
+Thanks for clicking on my personal webpage!
 
-#### Postdoctoral Researcher at the **[Oxford Centre for Human Brain Activity - University of Oxford]([https://www.fil.ion.ucl.ac.uk/](https://www.win.ox.ac.uk/about/our-locations/OHBA))**, 
+# Positions 
 
-#### Honorary Researcher - Department of Imaging Neuroscience, UCL, London, UK.
+- Postdoctoral Researcher at the **[Oxford Centre for Human Brain Activity - University of Oxford]([https://www.fil.ion.ucl.ac.uk/](https://www.win.ox.ac.uk/about/our-locations/OHBA))**, 
 
-## Research
+- Honorary Researcher - Department of Imaging Neuroscience, UCL, London, UK.
+
+# Research
 My research uses wearable OPM-MEG to investigate brain activity in real-world, naturalistic settings. I develop novel scanning setups and analysis pipelines to extract high-level insights from complex neural datasets.
 
 I am particularly interested in the neuroscience of social interaction and communication, and the role of synchronised neural oscillations during two-way exchanges. This involves scanning developing neurotypical participants as well as autistic participants, with the aim of understanding more about social interaction in neurodivergent populations. 

@@ -11,9 +11,9 @@ Thanks for clicking on my personal webpage!
 
 ## Positions 
 
-- Postdoctoral Researcher at the **[Oxford Centre for Human Brain Activity - University of Oxford]([https://www.fil.ion.ucl.ac.uk/](https://www.win.ox.ac.uk/about/our-locations/OHBA))**, 
+- Postdoctoral Researcher at the **[Oxford Centre for Human Brain Activity - University of Oxford]([https://www.fil.ion.ucl.ac.uk/](https://www.win.ox.ac.uk/about/our-locations/OHBA))**
 
-- Honorary Researcher - Department of Imaging Neuroscience, UCL, London, UK.
+- Honorary Researcher - **[Department of Imaging Neuroscience, UCL](https://www.ucl.ac.uk/ion/research/research-departments/department-imaging-neuroscience)**
 
 ## Research
 My research uses wearable OPM-MEG to investigate brain activity in real-world, naturalistic settings. I develop novel scanning setups and analysis pipelines to extract high-level insights from complex neural datasets.

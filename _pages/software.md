@@ -22,3 +22,20 @@ Coming Soon!
 2. Motor-beta power changes during a finger-tapping paradigm
 - Data: [https://doi.org/10.5281/zenodo.5539414](https://doi.org/10.5281/zenodo.5539414)
 - Script: [pipeline_tutorial_2.m](https://github.com/FIL-OPMEG/tutorials_interference/blob/main/pipeline_tutorial_2.m)
+
+## fBOSC
+https://github.com/neurofractal/fBOSC  
+
+fooof+BOSC: A repository for the robust detection of oscillations at the single-trial level. https://github.com/neurofractal/fBOSC
+
+## PACmeg
+https://github.com/neurofractal/pacmeg
+
+MATLAB scripts for detecting and validating phase amplitude coupling (PAC) in electrophysiological data
+
+## analyse_OPMEG (MATLAB)
+https://github.com/neurofractal/analyse_OPMEG
+
+A lair of scripts to analyse OPM data produced in collaboration with Dr. Nic Alexander
+
+
